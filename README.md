@@ -1,4 +1,5 @@
-<h1 align="center">Hey there! 👋, I'm Arthur</h1>
+<h2 align="center">Hey there! 👋 </h2>
+<h1 align="center">I'm Arthur</h1>
 <h3 align="center">A passionate Full Stack Developer from France</h3>
 
 
