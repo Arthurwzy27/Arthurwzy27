@@ -3,13 +3,15 @@
 <h3 align="center">A passionate Full Stack Developer from France</h3>
 
 
-👨🏼‍💻 I’m currently looking for a job as a Junior Full stack developer 👋🏼
+👨🏼‍💻 I’m currently looking for a job as a <bold>Junior Full stack developer</bold> 👋🏼
 
 🌱 I’m currently learning **React**
 
 💰 My final web app project is <a href="https://www.cryptons.me" target="blank">Cryptons.me</a>
 
-📫 How to reach me **arthur.picard7@gmail.com**
+⌨️ You will able to find my finished Portfolio pretty soon 😊
+
+📫 You can contact me on **arthur.picard7@gmail.com** or DM me on LinkedIn 👇🏼
   
 
 <h3 align="center">Connect with me:</h3>
