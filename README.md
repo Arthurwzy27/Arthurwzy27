@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from France</h3>
 
 
-👨🏼‍💻 I’m currently working on building **my portfolio**
+👨🏼‍💻 I’m currently looking for a job as a Junior Full stack developer 👋🏼
 
 🌱 I’m currently learning **React**
 
