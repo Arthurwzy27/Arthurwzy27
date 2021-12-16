@@ -11,7 +11,7 @@
 
 ⌨️ You will able to find my finished Portfolio pretty soon 😊
 
-📫 You can contact me on **arthur.picard7@gmail.com** or DM me on LinkedIn 👇🏼
+📫 You can contact me on my email **arthur.picard7@gmail.com** or DM me on LinkedIn 👇🏼
   
 
 <h3 align="center">Connect with me:</h3>
