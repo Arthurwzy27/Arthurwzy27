@@ -3,13 +3,12 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 
-👨🏼‍💻 I’m currently looking for a job as a <bold>Junior Full stack developer</bold> 👋🏼
+👨🏼‍💻 Junior Programmer at Daysk
 
-🌱 I’m currently learning **React**
+🏋🏼 Working with **React**, Node JS and Mongo DB
 
-💰 My final web app project is <a href="https://www.cryptons.me" target="blank">Cryptons.me</a>
+💰 My final Le Wagon web app project is <a href="https://www.cryptons.me" target="blank">Cryptons.me</a>
 
-⌨️ You will able to find my finished Portfolio pretty soon 😊
 
 📫 You can contact me on my email **arthur.picard7@gmail.com** or DM me on LinkedIn 👇🏼
   
