@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 
-👨🏼‍💻 Junior Fullstack Developer
+👨🏼‍💻 Fullstack Developer
 
 🏋🏼 Mainly working with **React**, Node JS and Ruby on Rails
 
-💰 Builded several projects as a Crypto Portfolio tracker (<a href="https://www.cryptons.me" target="blank">Cryptons.me</a>), Airbnb Clone, Netflix Clone, ToDo List and currently trying to make a Minecraft clone with React and Three.js  
+💰 Built several projects as a Crypto Portfolio tracker (<a href="https://www.cryptons.me" target="blank">Cryptons.me</a>), Ecommerce shops, Python programs for Microsoft Teams... and I'm currently buidling a Minecraft clone with React and Three.js  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
